@@ -1,0 +1,6 @@
+*.iml
+.idea/
+
+target/*
+!target/task2-1.0.jar
+
